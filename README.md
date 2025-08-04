@@ -82,7 +82,7 @@ Il progetto simula un caso aziendale reale: **TropicTaste Inc.**. Questa azienda
 
 ## 👨‍🎓 Studente
 **Nome:** Giacomo Latini  
-**Corso:** Master in AI Engineering  
+**Corso:** Master Professionale in AI Engineering  
 **Modulo:** Machine Learning: Modelli e Algoritmi  
 **Anno:** 2025
 
