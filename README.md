@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/1b701899-f179-4f08-a4cf-d50720bc827b)
 
-# (ITA)
+# Versione <img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/eee9d20d-b30f-4ba8-9429-116d3d8ad6e2" /> (ITA)
+
 
 # Master Professionale in AI Engineering - ProfessionAI
 # Classificazione di Frutti Esotici con K-Nearest Neighbors (KNN) 
