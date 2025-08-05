@@ -1,6 +1,9 @@
 ![image](https://github.com/user-attachments/assets/1b701899-f179-4f08-a4cf-d50720bc827b)
+
+# (ITA)
+
 # Master Professionale in AI Engineering - ProfessionAI
-# Classificazione di Frutti Esotici con K-Nearest Neighbors (KNN)
+# Classificazione di Frutti Esotici con K-Nearest Neighbors (KNN) 
 
 ## Descrizione del progetto
 Il progetto è stato sviluppato nell’ambito del modulo *Machine Learning: Modelli e Algoritmi* del **Master Professionale in AI Engineering**, con l’obiettivo di costruire un sistema di classificazione automatica per frutti esotici, basato su caratteristiche numeriche, mediante l'Algoritmo K-Nearest Neighbors (K-NN).
